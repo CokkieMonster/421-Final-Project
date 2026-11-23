@@ -1,0 +1,14 @@
+EXPLODED - Time ran out. - time left 0:00 - strikes 0
+EXPLODED - 1 min mode - 3 games failed. - solved 0/8 - failed 3/3 - time left 0:48
+EXPLODED - 1 min mode - Time ran out. - solved 1/8 - failed 1/3 - time left 0:00
+EXPLODED - 1 min mode - Time ran out. - solved 1/8 - failed 1/3 - time left 0:00
+EXPLODED - 1 min mode - Time ran out. - solved 7/8 - failed 0/3 - time left 0:00
+EXPLODED - 1 min mode - Easy - Time ran out. - solved 0/8 - failed 0/3 - time left 0:00
+EXPLODED - 1 min mode - Easy - Time ran out. - solved 4/8 - failed 0/3 - time left 0:00
+EXPLODED - 1 min mode - Easy - Time ran out. - solved 5/8 - failed 1/3 - time left 0:00
+EXPLODED - 1 min mode - Medium - Time ran out. - solved 1/8 - failed 0/3 - time left 0:00
+EXPLODED - 1 min mode - Easy - Time ran out. - solved 0/8 - failed 0/3 - time left 0:00
+EXPLODED - 1 min mode - Easy - Time ran out. - solved 2/8 - failed 0/3 - time left 0:00
+EXPLODED - Normal - Time ran out. - solved 2/6 - failed 0/2 - time left 0:00
+EXPLODED - Normal - Time ran out. - solved 2/6 - failed 0/2 - time left 0:00
+EXPLODED - Normal - Time ran out. - solved 4/6 - failed 1/2 - time left 0:00
